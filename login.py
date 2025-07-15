@@ -1,6 +1,6 @@
 import streamlit as st
 #from business_form import show_business_form
-from ImageGenerate import show_image#
+from ImageGenerate import show_image
 
 USER_CREDENTIALS = {
     "admin": "1234",
